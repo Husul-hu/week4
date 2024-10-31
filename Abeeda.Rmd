@@ -1,0 +1,17 @@
+---
+title: "Abeeda's diary"
+author: "husul"
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# abeeda is a beautiful girl with her own personality.
+
+
+
